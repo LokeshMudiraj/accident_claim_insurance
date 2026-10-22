@@ -1,0 +1,34 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Machine Learning & Serialized Models
+*.pkl
+*.h5
+*.joblib
+models/insurance_claim_model.pkl
+
+# Generated EDA Charts & Plots
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated Files
+Thumbs.db
+.DS_Store
