@@ -11,7 +11,11 @@ This project predicts accident insurance claim approvals using Random Forest and
 
 ## How to Run
 
-1. **Install Dependencies**:
+1. **Activate venv and Install Dependencies**:
+   ```bash
+   python -m venv .venv
+   .venv\Scripts\activate.bat
+   ```
    ```bash
    pip install -r requirements.txt
    ```
